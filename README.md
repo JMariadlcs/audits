@@ -4,7 +4,7 @@ This repository serves as a compilation of all the security audit contributions 
 
 ## Solo audits
 
-- **Private Name**: DeFi protocol for trading spreads. Client want to keep the report private.
+- **Private protocol**: DeFi protocol for trading spreads. Client want to keep the report private.
 
 ## Team-up audits
 
