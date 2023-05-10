@@ -10,8 +10,8 @@ This repository serves as a compilation of all the security audit contributions 
 
 These are team-up audits conducted under the name of the auditing firm [Guardian Audits](https://github.com/GuardianAudits).
 
-- **[DIVA protocol](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)**:
-  - [Link to the report]()
+- **[DIVA protocol:](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)**
+  - [Link to the report](https://github.com/JMariadlcs/audits/blob/main/GuardianLabs/DIVA/DIVA.md)
   - [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
 
 ## Auditing competitions
