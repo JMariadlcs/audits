@@ -4,7 +4,8 @@ This repository serves as a compilation of all the security audit contributions 
 
 ## Solo audits
 
-- **Private protocol**: DeFi protocol for trading spreads. Client want to keep the report private.
+- **Private protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference).
+  - Total number of findings: 2 High, 6 Mediums, 2 Low and 11 Gas optimization issues.
 
 ## GuardianLabs audits
 
@@ -17,3 +18,4 @@ These are team-up audits conducted under the name of the auditing firm [Guardian
 ## Auditing competitions
 
 - **Caviar protocol**
+  - Total number of findings: 1 High, 1 Low issues.
