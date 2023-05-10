@@ -19,4 +19,4 @@ These are team-up audits conducted under the name of the auditing firm [Guardian
 
 - **Caviar protocol**
   - Total number of findings: 1 High, 1 Low issues.
-  - [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/CAVIAR/submitted)
+  - [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/CAVIAR/SUBMITTED)
