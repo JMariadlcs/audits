@@ -6,9 +6,13 @@ This repository serves as a compilation of all the security audit contributions 
 
 - **Private protocol**: DeFi protocol for trading spreads. Client want to keep the report private.
 
-## Team-up audits
+## GuardianLabs audits
 
-- **DIVA protocol**
+These are team-up audits conducted under the name of the auditing firm [Guardian Audits](https://github.com/GuardianAudits).
+
+- **[DIVA protocol](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)**:
+  - [Link to the report]()
+  - [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
 
 ## Auditing competitions
 
