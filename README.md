@@ -2,10 +2,16 @@
 
 This repository serves as a compilation of all the security audit contributions made by JMariadlcs - devScrooge. The audits are divided into 3 main categories: solo audits, team-up audits (Guardian Audits), and reported issues from auditing competitions
 
-## Solo audits
+## Solo - private audits
+
+These are solo audits that I conduct for private clients.
 
 - **Private protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference).
+
   - Total number of findings: 2 High, 6 Mediums, 2 Low and 11 Gas optimization issues.
+
+- **Private protocol**: NFT Marketplace. Not published yet.
+  - Total number of findings: 1 Critical, 2 High, 2 Mediums, 2 Low, 6 Informational and 10 Gas optimization issues.
 
 ## GuardianLabs audits
 
@@ -20,3 +26,10 @@ These are team-up audits conducted under the name of the auditing firm [Guardian
 - **Caviar protocol**
   - Total number of findings: 1 High, 1 Low issues.
   - [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/CAVIAR/SUBMITTED)
+
+## Contacts
+
+I am available for smart contract security consulting. Reach out to me on:
+
+- Twitter - [@devScrooge](https://twitter.com/devScrooge)
+- Discord - [devScrooge#1472](https://discordapp.com/users/280017699713581056)
