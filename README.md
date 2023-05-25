@@ -33,3 +33,4 @@ I am available for smart contract security consulting. Reach out to me on:
 
 - Twitter - [@devScrooge](https://twitter.com/devScrooge)
 - Discord - [devScrooge#1472](https://discordapp.com/users/280017699713581056)
+- Email - [0xdevscrooge@gmail.com](mailto:0xdevscrooge@gmail.com)
