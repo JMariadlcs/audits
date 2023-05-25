@@ -1,10 +1,14 @@
+![](https://imgur.com/FxVcZQM.jpeg)
+
+---
+
 # Introduction
 
 JMaria conducted a security review of the **protocol name** protocol, which was limited to a specific time frame. The review primarily focused on the security aspects of the application's implementation.
 
 # About JMariadlcs - devScrooge
 
-JMaria is a Telecommunications and Blockchain Engineer who currently works full-time as a DeFi developer and also performs security audits for smart contracts. He strives to make valuable contributions to the blockchain ecosystem and its protocols by dedicating his time and effort to conducting security research and performing thorough security reviews.
+JMaria, also known as devScrooge on social networks, is a Telecommunications and Blockchain Engineer who currently works full-time as a DeFi developer and also performs security audits for smart contracts. He strives to make valuable contributions to the blockchain ecosystem and its protocols by dedicating his time and effort to conducting security research and performing thorough security reviews.
 
 Socials:
 [Webpage](https://www.devscrooge.com/)
@@ -12,6 +16,8 @@ Socials:
 [LinkedIn](https://www.linkedin.com/in/jmariadlcs/)
 [Github](https://github.com/JMariadlcs)
 [ResearchGate](https://www.researchgate.net/profile/Jose-Maria-De-La-Cruz-Sanchez)
+
+[Contact by email](mailto:0xdevscrooge@gmail.com)
 
 # About Otus Finance
 
@@ -29,6 +35,16 @@ Socials:
 
 # Security Assessment Summary
 
+| Project Name |          |
+| ------------ | -------- |
+| Language     | Solidity |
+| Codebase     |          |
+| Commit       | xxxxx    |
+
+| Delivery Date     | 05/25/2023                     |
+| ----------------- | ------------------------------ |
+| Audit Methodology | Static Analysis, Manual Review |
+
 **_review commit hash_ - [fffffffffff]()**
 
 ### Scope
@@ -42,11 +58,12 @@ The following smart contracts were in scope of the audit:
 
 The following number of issues were found, categorized by their severity:
 
-- Critical & High: x issues
+- Critical: x issues
+- High: x issues
 - Medium: x issues
 - Low: x issues
-- Gas: x issues
 - Informational: x issues
+- Gas: x issues
 
 # Findings Summary
 
