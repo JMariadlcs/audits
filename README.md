@@ -6,26 +6,30 @@ This repository serves as a compilation of all the security audit contributions 
 
 These are solo audits that I conduct for private clients.
 
-- **Private protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference).
+1. **Undisclosed protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference).
 
-  - Total number of findings: 2 High, 6 Mediums, 2 Low and 11 Gas optimization issues.
+- Total number of findings: 2 High, 6 Mediums, 2 Low and 11 Gas optimization issues.
 
-- **Private protocol**: NFT Marketplace. Not published yet.
-  - Total number of findings: 1 Critical, 2 High, 2 Mediums, 2 Low, 6 Informational and 10 Gas optimization issues.
+2. **Undisclosed protocol**: NFT Marketplace. Not published yet.
+
+- Total number of findings: 1 Critical, 2 High, 2 Mediums, 2 Low, 6 Informational and 10 Gas optimization issues.
 
 ## GuardianLabs audits
 
 These are team-up audits conducted under the name of the auditing firm [Guardian Audits](https://github.com/GuardianAudits).
 
-- **[DIVA protocol:](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)**
-  - [Link to the report](https://github.com/JMariadlcs/audits/blob/main/GuardianLabs/DIVA/DIVA.md)
-  - [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
+1. **[DIVA protocol:](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)**: DeFi derivatives protocol.
+
+- Total number of findings: 1 Medium, 1 Low and 11 Gas Optimization issues.
+- [Link to the report](https://github.com/JMariadlcs/audits/blob/main/GuardianLabs/DIVA/DIVA.md)
+- [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
 
 ## Auditing competitions
 
-- **Caviar protocol**
-  - Total number of findings: 1 High, 1 Low issues.
-  - [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/CAVIAR/SUBMITTED)
+1. **Caviar protocol**
+
+- Total number of valid findings: 1 High, 1 Low issues.
+- [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/CAVIAR/SUBMITTED)
 
 ## Contacts
 
