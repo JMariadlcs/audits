@@ -20,9 +20,9 @@ These are team-up audits conducted under the name of the auditing firm [Guardian
 
 1. **[DIVA protocol:](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)**: DeFi derivatives protocol.
 
-- Total number of findings: 1 Medium, 1 Low and 11 Gas Optimization issues.
-- [Link to the report](https://github.com/JMariadlcs/audits/blob/main/GuardianLabs/DIVA/DIVA.md)
-- [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
+   - Total number of findings: 1 Medium, 1 Low and 11 Gas Optimization issues.
+   - [Link to the report](https://github.com/JMariadlcs/audits/blob/main/GuardianLabs/DIVA/DIVA.md)
+   - [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
 
 ## Auditing competitions
 
