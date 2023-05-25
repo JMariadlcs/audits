@@ -19,7 +19,7 @@ Socials:
 
 [Contact by email](mailto:0xdevscrooge@gmail.com)
 
-# About Otus Finance
+# About _ProtocolName_
 
 **A brief description about the audited protocol**
 
