@@ -2,6 +2,12 @@
 
 This repository serves as a compilation of all the security audit contributions made by JMariadlcs - devScrooge. The audits are divided into 3 main categories: solo audits, team-up audits (Guardian Audits), and reported issues from auditing competitions
 
+## Valid findings summary
+
+| **Severity**       | **Critical / High** | **Medium** | **Low** |
+| ------------------ | ------------------- | ---------- | ------- |
+| Number of findings | 6                   | 9          | 11      |
+
 ## Solo - private audits
 
 These are solo audits that I conduct for private clients.
@@ -20,9 +26,9 @@ These are team-up audits conducted under the name of the auditing firm [Guardian
 
 1. **[DIVA protocol:](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)**: DeFi derivatives protocol.
 
-   - Total number of findings: 1 Medium, 1 Low and 11 Gas Optimization issues.
-   - [Link to the report](https://github.com/JMariadlcs/audits/blob/main/GuardianLabs/DIVA/DIVA.md)
-   - [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
+- Total number of findings: 1 Medium, 1 Low and 11 Gas Optimization issues.
+- [Link to the report](https://github.com/JMariadlcs/audits/blob/main/GuardianLabs/DIVA/DIVA.md)
+- [Link to the original report](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/DIVA/DivaAuditTeam7.md)
 
 ## Auditing competitions
 
