@@ -12,11 +12,16 @@ This repository serves as a compilation of all the security audit contributions 
 
 These are solo audits that I conduct for private clients.
 
-1. **Undisclosed protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference).
+- Total number of findings: 2 Critical,1 High, 1 Low and 6 Gas optimization issues.
+- [Link to the report](https://github.com/JMariadlcs/audits/blob/main/solo/undisclosed-01.md)
+
+1. **Undisclosed protocol**: Non-code tool for minting and transfering NFTs
+
+2. **Undisclosed protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference).
 
 - Total number of findings: 2 High, 6 Mediums, 2 Low and 11 Gas optimization issues.
 
-2. **Undisclosed protocol**: NFT Marketplace. Not published yet.
+3. **Undisclosed protocol**: NFT Marketplace. Not published yet.
 
 - Total number of findings: 1 Critical, 2 High, 2 Mediums, 2 Low, 6 Informational and 10 Gas optimization issues.
 
