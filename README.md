@@ -12,6 +12,7 @@ This repository serves as a compilation of all the security audit contributions 
 
 1. [Caviar Protocol - NFT AMM](https://github.com/JMariadlcs/audits/blob/main/competitions/CAVIAR/SUBMITTED/full-report.md) - Code4Arena.
 2. [DIVA Protocol - DeFi derivatives](https://github.com/GuardianAudits/DefenderAudits/blob/main/DIVA/DivaAuditTeam7.md) - Guardian Audits
+3. [Undisclosed protocol - Non-code tool for minting and transfering NFTs](https://github.com/JMariadlcs/audits/blob/main/solo/undisclosed-01.md) - Private solo audit
 
 ## Solo - private audits
 
