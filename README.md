@@ -6,7 +6,7 @@ This repository serves as a compilation of all the security audit contributions 
 
 | **Severity**       | **Critical / High** | **Medium** | **Low** |
 | ------------------ | ------------------- | ---------- | ------- |
-| Number of findings | 9                   | 9          | 12      |
+| Number of findings | 10                  | 9          | 14      |
 
 ## Conducted audits
 
