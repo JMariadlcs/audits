@@ -16,9 +16,9 @@ This repository serves as a compilation of all the security audit contributions 
 4. **Undisclosed protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference) - Private Solo Audit
 5. **Undisclosed protocol**: NFT Marketplace. Not published yet - Private Solo Audit
 6. [Ajna Finance - Permissionless lending pools](https://github.com/JMariadlcs/audits/blob/main/competitions/AJNA/submitted/full-report.md) - Sherlock
-7. JuiceBox - Not public yet
-8. IronBank - Not public yet
-9. Perennial - Not public yet
+7. JuiceBox - Not public yet - Code4Arena
+8. IronBank - Not public yet - Sherlock
+9. Perennial - Not public yet - Sherlock
 
 ---
 
