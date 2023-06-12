@@ -51,10 +51,15 @@ These are team-up audits conducted under the name of the auditing firm [Guardian
 
 ## Auditing competitions
 
-1. **Caviar protocol**
+1. **Caviar Protocol**
 
 - Total number of valid findings: 1 High, 1 Low issues.
 - [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/CAVIAR/SUBMITTED)
+
+1. **Ajna Finance**
+
+- Total number of valid findings: 1 High, 2 Low issues.
+- [Submitted findings](https://github.com/JMariadlcs/audits/blob/main/competitions/AJNA/submitted/full-report.md)
 
 ## Contacts
 
