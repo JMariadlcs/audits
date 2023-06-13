@@ -6,7 +6,7 @@ This repository serves as a compilation of all the security audit contributions 
 
 | **Severity**       | **Critical / High** | **Medium** | **Low** |
 | ------------------ | ------------------- | ---------- | ------- |
-| Number of findings | 10                  | 9          | 14      |
+| Number of findings | 10                  | 10         | 14      |
 
 ## Conducted audits
 
@@ -54,12 +54,16 @@ These are team-up audits conducted under the name of the auditing firm [Guardian
 1. **Caviar Protocol**
 
 - Total number of valid findings: 1 High, 1 Low issues.
-- [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/CAVIAR/SUBMITTED)
+- [Submitted findings](https://github.com/JMariadlcs/audits/tree/main/competitions/solo/CAVIAR/SUBMITTED)
 
-1. **Ajna Finance**
+2. **Ajna Finance**
 
 - Total number of valid findings: 1 High, 2 Low issues.
-- [Submitted findings](https://github.com/JMariadlcs/audits/blob/main/competitions/AJNA/submitted/full-report.md)
+- [Submitted findings](https://github.com/JMariadlcs/audits/blob/main/competitions/solo/AJNA/submitted/full-report.md)
+
+3. **JuiceBox**
+
+- Total number of valid findings: 1 Medium.
 
 ## Contacts
 
