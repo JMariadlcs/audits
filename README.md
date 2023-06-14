@@ -35,7 +35,7 @@ These are solo audits that I conduct for private clients.
 
 - Total number of findings: 2 High, 6 Mediums, 2 Low and 11 Gas optimization issues.
 
-3. **Undisclosed protocol**: NFT Marketplace. Not published yet.
+3. [NFTEspaña](https://github.com/JMariadlcs/audits/blob/main/solo/NFTEspa%C3%B1axScroogeAudits.md): NFT Marketplace. Not published yet.
 
 - Total number of findings: 1 Critical, 2 High, 2 Mediums, 2 Low, 6 Informational and 10 Gas optimization issues.
 
