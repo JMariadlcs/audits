@@ -14,7 +14,7 @@ This repository serves as a compilation of all the security audit contributions 
 2. [DIVA Protocol - DeFi derivatives](https://github.com/GuardianAudits/DefenderAudits/blob/main/DIVA/DivaAuditTeam7.md) - Guardian Audits
 3. [Undisclosed protocol - Non-code tool for minting and transfering NFTs](https://github.com/JMariadlcs/audits/blob/main/solo/undisclosed-01.md) - Private Solo Audit
 4. **Undisclosed protocol**: DeFi protocol for trading spreads. Client want to keep the report private (ask for reference) - Private Solo Audit
-5. **Undisclosed protocol**: NFT Marketplace. Not published yet - Private Solo Audit
+5. [NFTEspaña](https://github.com/JMariadlcs/audits/blob/main/solo/NFTEspa%C3%B1axScroogeAudits.md): NFT Marketplace - Private Solo Audit
 6. [Ajna Finance - Permissionless lending pools](https://github.com/JMariadlcs/audits/blob/main/competitions/AJNA/submitted/full-report.md) - Sherlock
 7. [JuiceBox](https://github.com/JMariadlcs/audits/blob/main/competitions/solo/team/medium.md) - Code4Arena Team
 8. IronBank - Not public yet - Sherlock
