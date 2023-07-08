@@ -6,7 +6,7 @@ This repository serves as a compilation of all the security audit contributions 
 
 | **Severity**       | **Critical / High** | **Medium** | **Low** |
 | ------------------ | ------------------- | ---------- | ------- |
-| Number of findings | 10                  | 10         | 14      |
+| Number of findings | 10                  | 12         | 16      |
 
 ## Conducted audits
 
@@ -17,8 +17,8 @@ This repository serves as a compilation of all the security audit contributions 
 5. [NFTEspaña](https://github.com/JMariadlcs/audits/blob/main/solo/NFTEspa%C3%B1axScroogeAudits.md): NFT Marketplace - Private Solo Audit
 6. [Ajna Finance - Permissionless lending pools](https://github.com/JMariadlcs/audits/blob/main/competitions/AJNA/submitted/full-report.md) - Sherlock
 7. [JuiceBox](https://github.com/JMariadlcs/audits/blob/main/competitions/solo/team/medium.md) - Code4Arena Team
-8. IronBank - Not public yet - Sherlock
-9. Perennial - Not public yet - Sherlock
+8. [Perennial - Perpetual Protocol](https://github.com/sherlock-audit/2023-05-perennial-judging/issues/232) - Sherlock Team
+9. [Kunji Finance - Simple Token](https://github.com/UNSNARL/audit-reports/blob/main/Kunji_Security_Asessment_report.pdf) - UNSNARL solo audit
 
 ---
 
