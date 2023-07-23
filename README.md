@@ -19,6 +19,7 @@ This repository serves as a compilation of all the security audit contributions 
 7. [JuiceBox](https://github.com/JMariadlcs/audits/blob/main/competitions/solo/team/medium.md) - Code4Arena Team
 8. [Perennial - Perpetual Protocol](https://github.com/sherlock-audit/2023-05-perennial-judging/issues/232) - Sherlock Team
 9. [Kunji Finance - Simple Token](https://github.com/UNSNARL/audit-reports/blob/main/kunji_finance_audit_report.pdf) - UNSNARL solo audit
+10. [PariFi - Perpetual Protocol](https://github.com/GuardianAudits/DefenderAudits/blob/main/PariFi/onlyOwners_PariFiAudit.md) - Guardian Audits Team Lead.
 
 ---
 
