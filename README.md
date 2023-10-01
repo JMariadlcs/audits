@@ -21,6 +21,7 @@ This repository serves as a compilation of all the security audit contributions 
 9. [Kunji Finance - Simple Token](https://github.com/UNSNARL/audit-reports/blob/main/kunji_finance_audit_report.pdf) - UNSNARL solo audit
 10. [PariFi - Perpetual Protocol](https://github.com/GuardianAudits/DefenderAudits/blob/main/PariFi/onlyOwners_PariFiAudit.md) - Guardian Audits Team Lead.
 11. [Komet - Transfer Token Protocol](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf) - Team audit.
+12. [PoolShark - Limit pools](https://github.com/poolshark-protocol/limit/blob/master/audits/Guardian_Audits_Poolshark_Limit.pdf) - Guardian Audits team audit.
 
 ---
 
@@ -28,6 +29,6 @@ This repository serves as a compilation of all the security audit contributions 
 
 I am available for smart contract security consulting. Reach out to me on:
 
-- Twitter - [@devScrooge](https://twitter.com/devScrooge)
+- Twitter - [@0xjmaria](https://twitter.com/0xjmaria)
 - Discord - [devScrooge#1472](https://discordapp.com/users/280017699713581056)
-- Email - [0xdevscrooge@gmail.com](mailto:0xdevscrooge@gmail.com)
+- Email - [0xjmariadelacruz@gmail.com](mailto:0xjmariadelacruz@gmail.com)
