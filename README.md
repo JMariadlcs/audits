@@ -27,5 +27,5 @@ This repository serves as a compilation of all the security audit contributions 
 I am available for smart contract security consulting. Reach out to me on:
 
 - Twitter - [@0xjmaria](https://twitter.com/0xjmaria)
-- Discord - [devScrooge#1472](https://discordapp.com/users/280017699713581056)
+- Discord - [0xjmaria](https://discordapp.com/users/280017699713581056)
 - Email - [0xjmariadelacruz@gmail.com](mailto:0xjmariadelacruz@gmail.com)
