@@ -1,12 +1,6 @@
 # JMariadlcs - devScrooge Smart Contract Audits
 
-This repository serves as a compilation of all the security audit contributions made by JMariadlcs - devScrooge. The audits are divided into 3 main categories: solo audits, team-up audits, and reported issues from auditing competitions. Some of the private audits are conducter under the name of [Guardian Audits](https://twitter.com/guardianaudits) and [UNSNARL](https://twitter.com/unsnarl_secure) to which I currently participate.
-
-## Valid findings summary
-
-| **Severity**       | **Critical / High** | **Medium** | **Low** |
-| ------------------ | ------------------- | ---------- | ------- |
-| Number of findings | 13                  | 25         | 36      |
+This repository serves as a compilation of all the security audit contributions made by Jose María. The audits are divided into 3 main categories: solo audits, team-up audits, and reported issues from auditing competitions. Some of the private audits are conducter under the name of [Guardian Audits](https://twitter.com/guardianaudits) and [UNSNARL](https://twitter.com/unsnarl_secure) to which I currently participate.
 
 ## Conducted audits
 
@@ -22,7 +16,10 @@ This repository serves as a compilation of all the security audit contributions 
 10. [PariFi - Perpetual Protocol](https://github.com/GuardianAudits/DefenderAudits/blob/main/PariFi/onlyOwners_PariFiAudit.md) - Guardian Audits Team Lead.
 11. [Komet - Transfer Token Protocol](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf) - Team audit.
 12. [PoolShark - Limit pools](https://github.com/poolshark-protocol/limit/blob/master/audits/Guardian_Audits_Poolshark_Limit.pdf) - Guardian Audits team audit.
-
+13. Tmkpuzzle (report soon).
+14. Algem - Liquid staking (report soon).
+15. a51 (report soon).
+16. Selfient (report soon).
 ---
 
 ## Contacts
