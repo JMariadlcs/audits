@@ -1,4 +1,4 @@
-# JMariadlcs - devScrooge Smart Contract Audits
+# Jose María de la Cruz - Smart Contract Audits
 
 This repository serves as a compilation of all the security audit contributions made by Jose María. The audits are divided into 3 main categories: solo audits, team-up audits, and reported issues from auditing competitions. Some of the private audits are conducter under the name of [Guardian Audits](https://twitter.com/guardianaudits) and [UNSNARL](https://twitter.com/unsnarl_secure) to which I currently participate.
 
