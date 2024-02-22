@@ -20,6 +20,7 @@ This repository serves as a compilation of all the security audit contributions 
 14. Algem - Liquid staking (report soon).
 15. a51 (report soon).
 16. Selfient (report soon).
+17. NeomiAuction (report soon).
 ---
 
 ## Contacts
